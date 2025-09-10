@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm KUMAR CHAVAN</h1>
+<img width="680" height="428" alt="image" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" />
 <h3 align="center">🎯 A Passionate Fullstrack Developer from India</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-t-chavan&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-t-chavan" /> </p>
 
-- 🔭 I’m currently studying Information Technology [Digital Clock](https://kumar-t-chavan.github.io/Light-Digital-Clock/)
+- 🔭 I’m currently studying Information Technology
 
 - 🌱 I’m currently learning **React js**
 
@@ -20,6 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kumar chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar chavan" height="30" width="40" /></a>
+  <a href="https://instagram.com/kumar_chavan__01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumar_chavan__01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
