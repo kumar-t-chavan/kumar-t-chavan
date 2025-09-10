@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm KUMAR CHAVAN</h1>
 <h3 align="center">🎯 A Passionate Fullstrack Developer from India</h3>
+<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/c8013725-5ca1-4a90-be9d-ea50fe46f736" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-t-chavan&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-t-chavan" /> </p>
 
