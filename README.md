@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KUMAR CHAVAN</h1>
-<img width="680" height="428" alt="image" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" />
+<img width="400" height="480" alt="image" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" />
 <h3 align="center">🎯 A Passionate Fullstrack Developer from India</h3>
 
 
@@ -17,7 +17,7 @@
 - 📄 Know about my experiences [file:///C:/Users/Lenovo/OneDrive/Documents/CV/KUMAR%20CV.pdf](file:///C:/Users/Lenovo/OneDrive/Documents/CV/KUMAR%20CV.pdf)
 
 - ⚡ Fun fact **I AM FUNNY 😎**
-<img width="680" height="428" alt="image" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
+<img width="500" height="408" alt="image" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kumar chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar chavan" height="30" width="40" /></a>
