@@ -45,15 +45,15 @@
 
 📈 Contribution Activity Graph:
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar-t-chavan&theme=github-compact&hide_border=true&area=true" alt="Kumar Chavan GitHub Activity Graph"/>
-</div>
+
 
 🏆 GitHub Trophies:
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumar-t-chavan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
+![](https://github-profile-trophy.vercel.app/?username=Soham124&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 💻 Tech Stack:
 
@@ -93,8 +93,9 @@ Tech: Python • MySQL • SQL • CRUD • Database Connectivity
 🐍 Contribution Snake:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kumar-t-chavan/kumar-t-chavan/output/github-contribution-grid-snake-dark.svg" alt="Kumar Chavan Contribution Snake"/>
+  <img src="https://github.com/Soham124/Soham124/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
+
 
 🎯 Current Goals:
 
